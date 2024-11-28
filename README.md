@@ -2,7 +2,7 @@
 
 Я **Тимур Горбаков**, Front-end разработчик с страстью к созданию эффективных и масштабируемых веб-приложений.
 
-![Просмотры профиля](https://komarev.com/ghpvc/?username=mlovz&color=blue)
+![Просмотры профиля](https://komarev.com/ghpvc/?username=GeRoDoT8&color=blue)
 
 ---
 
@@ -35,20 +35,20 @@
 
 ## 📈 Статистика GitHub:
 
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=mlovz&show_icons=true&theme=dark)
-![Топ Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=mlovz&langs_count=8&layout=compact&theme=dark)
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=GeRoDoT8&show_icons=true&theme=dark)
+![Топ Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=GeRoDoT8&langs_count=8&layout=compact&theme=dark)
 
 ---
 
 ## 🏆 Трофеи GitHub:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mlovz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=GeRoDoT8&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 📈 Активность
 
-[![Активность](https://github-readme-activity-graph.vercel.app/graph?username=mlovz&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Активность](https://github-readme-activity-graph.vercel.app/graph?username=GeRoDoT8&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
